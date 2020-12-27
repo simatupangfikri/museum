@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:ani="http://www.tubessemanticweb/namespace#">
+
+    <rdf:Description
+        rdf:about = "https://id.wikipedia.org/wiki/Harimau_sumatra">
+        <dc:title>Harimau Sumatra</dc:title>
+        <ani:sciname>Panthera tigris sumatrae</ani:sciname>
+        <dc:coverage>Pulau Sumatra, Indonesia</dc:coverage>
+        <ani:status>Kritis</ani:status>
+        <dc:description>Memiliki kondisi yang sangat mengkhawatirkan, Harimau Sumatera disebut-sebut akan punah pada 2025. Oleh sebab itu, Harimau Sumatera menjadi bagian dari daftar hewan yang terancam punah di Indonesia. Untuk saat ini saja, sub spesies Harimau Sumatera yang masih hidup di alam bebas, diperkirakan hanya ada sekitar 300-400 ekor saja. Jumlah tersebut akan terus menurun bahkan punah, apabila pembukaan lahan kelapa sawit secara ilegal, yang mengganggu habitat Harimau Sumatera tetap dilakukan dan dibiarkan begitu saja. Oleh karena itu, untuk mencegah terjadinya kepunahan, Pusat Rehabilitasi Harimau Sumatera pun dibangun, sebagai upaya konservasi, pelestarian dan rehabilitasi kembali Harimau Sumatera.</dc:description>
+        <ani:image>https://media.beritagar.id/2019-12/badf226ccfe0e0a2a56c64a994211b6211be178b.jpg</ani:image>
+    </rdf:Description>
+    
+    <rdf:Description
+        rdf:about = "https://id.wikipedia.org/wiki/Gajah_sumatra">
+        <dc:title>Gajah Sumatra</dc:title>
+        <ani:sciname>Elephas maximus sumatranus</ani:sciname>
+        <dc:coverage>Pulau Sumatra, Indonesia</dc:coverage>
+        <ani:status>Rentan</ani:status>
+        <dc:description>Gajah Sumatra menjadi bagian dari daftar hewan yang terancam punah di Indonesia. Bagaimana tidak, hewan yang memiliki tinggi badan sekitar 1,7 – 2,6 meter ini, dikabarkan mengalami penurunan populasi, seiring dengan tingginya laju kehilangan hutan di Sumatra. Karena kondisinya yang terancam punah, Gajah Sumatra menjadi salah satu hewan yang dilindungi keberadaannya. Di Taman Nasional Bukit Barisan Selatan (TNBBS) sendiri, Gajah Sumatera memiliki populasi yang tidak terlalu banyak, yaitu hanya sekitar 2.000 ekor.</dc:description>
+        <ani:image rdf:src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sumatra_elephant_Ragunan_Zoo_3.JPG"/>
+    </rdf:Description>
+    
+    <rdf:Description
+        rdf:about = "https://id.wikipedia.org/wiki/Komodo">
+        <dc:title>Komodo</dc:title>
+        <ani:sciname>Varanus komodoensis</ani:sciname>
+        <dc:coverage>Pulau Komodo, Rinca, Flores, Gili Motang, dan Gili Dasami di Provinsi Nusa Tenggara Timur, Indonesia</dc:coverage>
+        <ani:status>Rentan</ani:status>
+        <dc:description>Sebagai spesies kadal terbesar yang ada di Indonesia, keberadaan Komodo saat ini hanya terletak di Pulau Komodo, Flores, Rinca, Gili Motang dan Gili Dasami Provinsi Nusa Tenggara Timur (NTT). Untuk habitatnya sendiri, Taman Nasional Komodo menjadi habitat dari kadal terbesar di dunia dan endemik di Indonesia, seperti yang dilansir dari situs Kementerian Lingkungan Hidup dan Kehutanan (KLHK). Selama lima tahun terakhir, keberadaan Komodo berdasarkan hasil pengamatan populasi oleh Balai Taman Nasional dan Komodo Survival Program (KSP), yaitu relatif stabil karena berada pada kisaran 2.400 – 3.000 ekor.</dc:description>
+        <ani:image>https://cdn1-production-images-kly.akamaized.net/5TJc85gxN1cJ3BZJJZI3QhU8Zl0=/640x480/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1214372/original/076113000_1553775046-komodo.jpg</ani:image>
+    </rdf:Description>
+    
+    <rdf:Description
+        rdf:about = "https://id.wikipedia.org/wiki/Orang_utan">
+        <dc:title>Orang utan</dc:title>
+        <ani:sciname>Pongo</ani:sciname>
+        <dc:coverage>Pulau Borneo dan Sumatra di wilayah bagian negara Indonesia dan Malaysia</dc:coverage>
+        <ani:status>Kritis</ani:status>
+        <dc:description> Orang Utan masuk sebagai daftar hewan yang terancam punah di Indonesia. Bahkan kabarnya tidak hanya di Indonesia, tetapi di dunia pun populasi Orang Utan terus menurun. Melansir idntimes.com, populasi Orang Utan di dunia hingga saat ini hanya sekitar 55 ribu. Yang mana, sebagian besar terletak di Kalimantan dan 200 lainnya terletak di Sumatera. Salah satu faktor yang menyebabkan terus menurunnya populasi Orang Utan adalah pembukaan lahan paksa, yang dilakukan oleh pihak-pihak tak bertanggung jawab. Pasalnya, pembukaan lahan paksa tersebut yang sejatinya merebut habitat dari Orang Utan sendiri, serta mengganggu keberlangsungan hidupnya. Jika di antara kamu ada yang ingin melihat Orang Utan, kamu bisa berkunjung ke Taman Nasional Tanjung Puting, Kotawaringin Barat, Kalimantan Tengah.</dc:description>
+        <ani:image>https://indonesia.go.id/assets/img/assets/1564547112_Pongo_Pygmaeus.jpeg</ani:image>
+    </rdf:Description>
+    
+    <rdf:Description
+        rdf:about = "https://id.wikipedia.org/wiki/Macan_tutul_jawa">
+        <dc:title>Macan tutul jawa</dc:title>
+        <ani:sciname>Panthera pardus melas</ani:sciname>
+        <dc:coverage>Pulau Jawa, Indonesia</dc:coverage>
+        <ani:status>Kritis</ani:status>
+        <dc:description>Macan tutul jawa atau macan kumbang adalah salah satu subspesies dari macan tutul yang hanya ditemukan di hutan tropis, pegunungan dan kawasan konservasi Pulau Jawa, Indonesia. Macan tutul ini memiliki dua variasi warna kulit yaitu berwarna oranye dan hitam. Macan tutul jawa adalah satwa indentitas Provinsi Jawa Barat. Sebagian besar populasi macan tutul dapat ditemukan di Taman Nasional Gunung Gede Pangrango, meskipun di semua taman nasional di Jawa dilaporkan pernah ditemukan hewan ini, mulai dari Ujung Kulon hingga Baluran. Berdasarkan dari hilangnya habitat hutan, penangkapan liar, serta daerah dan populasi di mana hewan ini ditemukan sangat terbatas, macan tutul jawa termasuk ke daftar hewan hampir punah di Indonesia.</dc:description>
+        <ani:image>https://cdn-2.tstatic.net/tribunnews/foto/bank/images/seorang-pria-terluka-saat-mencoba-menangkap-macan-tutul_20170125_131159.jpg</ani:image>
+    </rdf:Description>
+    
+    <rdf:Description
+        rdf:about = "https://id.wikipedia.org/wiki/Badak_jawa">
+        <dc:title>Badak jawa</dc:title>
+        <ani:sciname>Rhinoceros sondaicus</ani:sciname>
+        <dc:coverage>Pulau Jawa, Indonesia</dc:coverage>
+        <ani:status>Kritis</ani:status>
+        <dc:description>Kabar terancam punahnya populasi Badak jawa atau badak bercula satu tidak main-main. Di Taman Nasional Bukit Barisan Selatan (TNBBS) sendiri, populasi kedua jenis Badak tersebut hanya ada sekitar 300 ekor. Populasi 40-50 badak hidup di Taman Nasional Ujung Kulon di pulau Jawa, Indonesia. Berkurangnya populasi Badak jawa diakibatkan oleh perburuan untuk diambil culanya, yang sangat berharga pada pengobatan tradisional Tiongkok. Maka dari itu, Badak jawa dilestarikan dan dilindungi dari berbagai ancaman, khususnya hilangnya habitat hutan yang semakin hari semakin banyak dikuasai oleh pihak-pihak tak bertanggung jawab.</dc:description>
+        <ani:image>https://bbksdajatim.org/wp-content/uploads/2017/06/Peneliti-Sarankan-Pembangunan-Habitat-Baru-bagi-Badak-Jawa.jpg</ani:image>
+    </rdf:Description>
+    
+    <rdf:Description
+        rdf:about = "https://id.wikipedia.org/wiki/Tarsius_tarsier">
+        <dc:title>Tarsius tarsier</dc:title>
+        <ani:sciname>Tarsius tarsier</ani:sciname>
+        <dc:coverage>Pulau Sulawesi, Indonesia</dc:coverage>
+        <ani:status>Rentan</ani:status>
+        <dc:description>Buat kamu yang belum tahu Tarsius Tarsier, ini sejatinya merupakan salah satu hewan bertubuh mungil berwarna cokelat, yang memiliki mata besar. Hewan yang seringkali disebut mirip dengan Koala ini sangat unik, karena tidak bisa menapakkan kaki di tanah, da terus melompat dari satu pohon ke pohon lainnya. Namun sayangnya, Tarsius Tarsier saat ini populasinya sudah semakin berkurang, akibat dari pembalakan liar yang dilakukan terus-menerus. Sehingga dari aktivitas tersebut, Tarsius Tarsier kini menjadi bagian dari daftar hewan yang terancam punah di Indonesia, yang patut dilindungi.</dc:description>
+        <ani:image>https://www.tarungnews.com/media/news/Female-Lariang-tarsier-on-branch.jpg</ani:image>
+    </rdf:Description>
+    
+    <rdf:Description
+        rdf:about = "https://id.wikipedia.org/wiki/Maleo_senkawor">
+        <dc:title>Burung Maleo</dc:title>
+        <ani:sciname>Macrocephalon maleo</ani:sciname>
+        <dc:coverage>Pulau Sulawesi, Indonesia</dc:coverage>
+        <ani:status>Terancam</ani:status>
+        <dc:description>Sebagai salah satu jenis burung yang masuk ke dalam daftar hewan yang terancam punah di Indonesia, Burung Maleo saat ini memiliki populasi yang terbilang cukup sedikit, yaitu sekitar 10.000 ekor saja. Salah satu faktor yang menyebabkan menurunnya populasi Burung Maleo, yaitu banyaknya orang yang mengambil telur Burung Maleo, akibat dari ukuran telur burung ini yang sangat besar, yakni lima kali lebih besar dari telur ayam. Melihat dari banyaknya kasus tersebut, maka Burung Maleo pun akhirnya dinobatkan sebagai hewan yang patut dilindungi. Dan sejak penobatan tersebut, populasi Burung Maleo pun secara perlahan mengalami peningkatan.</dc:description>
+        <ani:image>https://imgsrv.voi.id/wbJFT1Zao5rSTjnyNkQ0S7nnV-e4YFHskTHT9T-3n60/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy8xNjk2My8yMDIwMTAxNjExNTMtbWFpbi5jcm9wcGVkXzE2MDI4MjQwNDkuanBn.jpg</ani:image>
+    </rdf:Description>
+    
+    <rdf:Description
+        rdf:about = "https://id.wikipedia.org/wiki/Jalak_bali">
+        <dc:title>Jalak bali</dc:title>
+        <ani:sciname>Leucopsar rothschildi</ani:sciname>
+        <dc:coverage>Pulau Bali, Indonesia</dc:coverage>
+        <ani:status>Kritis</ani:status>
+        <dc:description>Nyatanya, salah satu jenis burung hanya bisa dijumpai di Bali ini, menjadi bagian dari daftar hewan yang terancam punah di Indonesia. Maka dari itu, untuk mencegah risiko kepunahan yang semakin besar, Burung Jalak Bali keberadaannya dilindungi oleh undang-undang. Selain itu, beberapa kebun binatang di seluruh dunia pun turut membantu melindungi dan melestarikan populasi hewan endemik ini, dengan cara menjalankan program penangkaran Burung Jalak Bali. Sebagai informasi tambahan, burung yang ditemukan pada 1910 ini pun, dinobatkan sebagai lambang fauna Provinsi Bali pada 1991.</dc:description>
+        <ani:image>https://upload.wikimedia.org/wikipedia/commons/4/47/Bali_Myna_in_Bali_Barat_National_Park.jpg</ani:image>
+    </rdf:Description>
+    
+    <rdf:Description
+        rdf:about = "https://id.wikipedia.org/wiki/Elang_flores">
+        <dc:title>Elang flores</dc:title>
+        <ani:sciname>Nisaetus floris</ani:sciname>
+        <dc:coverage>Pulau Flores, Indonesia</dc:coverage>
+        <ani:status>Kritis</ani:status>
+        <dc:description>Ternyata populasi Elang Flores saat ini sangat sedikit, tepatnya yaitu kurang dari 250 ekor. Oleh karena populasinya yang sangat sedikit, maka hewan yang hanya bisa ditemukan di beberapa pulau di NTT ini, masuk ke dalam daftar hewan yang terancam punah di Indonesia. Dengan ukuran 55 cm, Elang Flores dewasa memiliki karakteristik yang terlihat di bagian kepalanya yang berbulu putih. Namun, bulu yang ada pada bagian kepala tersebut, terkadang memiliki garis-garis coklat yang terletak pada mahkotanya.</dc:description>
+        <ani:image>https://burungnya.com/wp-content/uploads/2019/04/Burung-Elang-Flores-Hampir-Punah-hbw.com_.jpg</ani:image>
+    </rdf:Description>
+    
+</rdf:RDF>
