@@ -21,7 +21,7 @@
         <dc:coverage>Pulau Sumatra, Indonesia</dc:coverage>
         <ani:status>Rentan</ani:status>
         <dc:description>Gajah Sumatra menjadi bagian dari daftar hewan yang terancam punah di Indonesia. Bagaimana tidak, hewan yang memiliki tinggi badan sekitar 1,7 – 2,6 meter ini, dikabarkan mengalami penurunan populasi, seiring dengan tingginya laju kehilangan hutan di Sumatra. Karena kondisinya yang terancam punah, Gajah Sumatra menjadi salah satu hewan yang dilindungi keberadaannya. Di Taman Nasional Bukit Barisan Selatan (TNBBS) sendiri, Gajah Sumatera memiliki populasi yang tidak terlalu banyak, yaitu hanya sekitar 2.000 ekor.</dc:description>
-        <ani:image rdf:src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sumatra_elephant_Ragunan_Zoo_3.JPG"/>
+        <ani:image>https://upload.wikimedia.org/wikipedia/commons/2/2a/Sumatra_elephant_Ragunan_Zoo_3.JPG</ani:image>
     </rdf:Description>
     
     <rdf:Description
